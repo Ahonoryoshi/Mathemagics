@@ -1,0 +1,23 @@
+img.right {
+  float: right;
+}
+.left {
+  float: left;
+}
+.auth {
+  font-style: italic;
+  color: red;
+}
+.nat {
+  color: blue;
+}
+body {
+  background-color: aliceblue;
+}
+.sub {
+  font-weight: bolder;
+  font-size: small;
+}
+.it {
+  font-style: italic;
+}
