@@ -21,3 +21,12 @@ body {
 .it {
   font-style: italic;
 }
+.header {
+  text-align: center;
+}
+h1 {
+  color: crimson;
+}
+.key {
+  color: brown;
+}
